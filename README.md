@@ -1,6 +1,8 @@
 # ParallelComputing
 Different levels and ways of parallelization of programs
 
+## Project files
+
 **avx_mm256_mul_ps.cpp** - parallel programming using avx processor instructions
 
 **mpi_all_reduce.cpp** - parallel programming using MPI process
